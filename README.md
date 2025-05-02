@@ -53,12 +53,13 @@ While most people use graphical editors like Photoshop, handling image transform
   -  Add a command-line interface for specifying transformations
 
   -  Build a graphical frontend using a library like SDL or OpenGL
-  -  
+
+
+
+This project showcases C programming applied to real-world systems tasks.
 # 🛠 Author
 Andreas Hadjitofis
 
 Computer Science Student @ National and Kapodistrian University of Athens
 
-
-This project showcases C programming applied to real-world systems tasks.
 
